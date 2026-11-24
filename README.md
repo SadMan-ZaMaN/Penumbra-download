@@ -21,7 +21,7 @@ It moves with your music, takes its colors from what you're playing, and can sho
 
 **You need:** 64-bit Windows 10 (version 2004 or newer) or Windows 11, and a graphics card with DirectX 11 (any from the last decade). Nothing else to install: everything Penumbra needs is inside the installer. It installs for your user only, without asking for admin rights.
 
-**Update:** download the newer Setup from the same page and run it. It installs over the old one and keeps your settings.
+**Update:** download the newer Setup from the same page and run it. It installs over the old one.
 **Uninstall:** Windows **Settings → Apps → Penumbra → Uninstall**.
 
 New to it? The short **[user guide](USER-GUIDE.md)** covers everything: shortcuts, lyrics, the players and what to do if something's not right.

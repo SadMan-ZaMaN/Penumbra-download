@@ -6,7 +6,7 @@ Penumbra puts a thin line of light around the edges of your screen that **moves 
 
 ## 1. Install
 
-1. Download **Penumbra-Setup-1.0.0.exe** from the **[download page](https://github.com/SadMan-ZaMaN/Penumbra-download/releases/latest)** (under **Assets**).
+1. Download the newest **Penumbra-Setup** file from the **[download page](https://github.com/SadMan-ZaMaN/Penumbra-download/releases/latest)** (under **Assets**).
 2. Run it. If Windows says **"Windows protected your PC"**, click **More info → Run anyway**. (The app isn't signed; that's all this means.)
 3. Click through the installer. Penumbra starts and opens its settings panel.
 
@@ -66,6 +66,7 @@ A full-screen player: the song's cover on the left, the lyrics scrolling on the 
 
 - **Show or hide it:** **Ctrl + Alt + M**, the small-window button at the top of the settings panel (next to **⤢**; outlined while it's on), **Mini player** in the tray menu, or its **✕**.
 - **Its other buttons:** **⚙** opens the settings panel (click again to close), **⤢** opens the Now playing view.
+- **Jump within the song:** click or drag the thin line along the bottom of the bar (pointing at it shows the time). Songs without lyrics get a progress bar in place of the lyric line, which works the same way.
 - **Move it:** drag it by any empty spot. **Double-click** it to send it back to the bottom middle. When you close it, it opens at the bottom middle again next time.
 - **Tuck it away:** **›** slides it into the side of the screen, leaving a small tab with the cover. Click the tab to bring it back; drag the tab to move it.
 - Clicking it doesn't take the keyboard away from what you're typing in.
@@ -74,6 +75,8 @@ A full-screen player: the song's cover on the left, the lyrics scrolling on the 
 ---
 
 ## 6. The settings panel
+
+**Every time you open Penumbra, it starts with the default settings** (light on, mini player off). Only the **⟳** restart keeps what you've set.
 
 | Setting | What it does |
 |---|---|
@@ -118,5 +121,5 @@ A full-screen player: the song's cover on the left, the lyrics scrolling on the 
 
 ## 9. Update or remove
 
-- **Update:** download the newer Setup from the [download page](https://github.com/SadMan-ZaMaN/Penumbra-download/releases/latest) and run it. It installs over the old one and keeps your settings.
+- **Update:** download the newer Setup from the [download page](https://github.com/SadMan-ZaMaN/Penumbra-download/releases/latest) and run it. It installs over the old one.
 - **Remove:** Windows **Settings → Apps → Penumbra → Uninstall**.
